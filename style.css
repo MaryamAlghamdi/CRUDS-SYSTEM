@@ -90,9 +90,8 @@ button:hover{
 
 table{
     width: 100%;
-    margin: 20px 0;
-    padding: 30px;
-    border: ghostwhite, solid, 10px;
+    margin: 10px 0;
+    padding: 10px;
     text-align: center;
 }
 
